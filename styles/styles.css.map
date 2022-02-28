@@ -1,0 +1,16 @@
+{
+    "version": 3,
+    "mappings": "ACCA,AAAA,CAAC,CAAA;EACG,UAAU,EAAE,UAAU;EACtB,MAAM,EAAE,CAAC;EACT,OAAO,EAAE,CAAC;CACb;;AACD,AAAA,IAAI,CAAA;EACA,gBAAgB,ECNV,OAAO;EDOb,OAAO,EAAE,IAAI;EACb,SAAS,EAAE,IAAI;EACf,eAAe,EAAE,MAAM;CAC1B;;AACD,AAAA,GAAG,CAAA;EACC,KAAK,EAAE,KAAK;EACZ,MAAM,EAAE,KAAK;EACb,MAAM,EAAE,IAAI;EACZ,UAAU,EAAE,MAAM;EAClB,WAAW,EAAE,KAAK;CACrB;;AEjBD,AAAA,OAAO,CAAA;EACH,gBAAgB,EDFV,OAAO;CCGhB;;AEHD,AAAA,KAAK,CAAA;EACD,gBAAgB,EHEV,OAAO;EGDb,KAAK,EHEE,OAAO;EGDd,MAAM,EAAE,eAAe;CAC1B;;ACHD,AAAA,OAAO,CAAA;EACH,gBAAgB,EJAV,OAAO;CIChB",
+    "sources": [
+        "styles.scss",
+        "_baseroles.scss",
+        "_variables.scss",
+        "_header.scss",
+        "_variables.scss",
+        "_main.scss",
+        "_footer.scss",
+        "_variables.scss"
+    ],
+    "names": [],
+    "file": "styles.css"
+}
